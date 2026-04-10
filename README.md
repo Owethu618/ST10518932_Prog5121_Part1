@@ -22,5 +22,9 @@
 
 ### MainApp
 
-In my MainApp I did the following
+In my MainApp I did the following by firstly importing a scanner in order to allow me to prompt a usrer to to insert their login details that they registered with, the user would have to follow the validations set out in the validations set out in our Login.java class. In the the MainApp , the user will have to first register their login details and then login with the details that they registered with.
+
+### LoginTest
+
+In the LoginTest , I am testing my methods that I used in my Login.java . To do so I imported a feature in NetBeans which allows me to test my methods in the Login.java class . The features that I imported are , " import.org.junit and import org.junit.Assertions", these allowed me to test my methods using the following which Junit Assertions. I made use of the following, "assertEquals, assertTrue and also assertFalse". I used this to be able to look at the incorrect details that might be entered by a user and the correct details also.
 
