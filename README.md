@@ -27,6 +27,7 @@ In my MainApp I did the following by firstly importing a scanner in order to all
 ### LoginTest
 
 In the LoginTest , I am testing my methods that I used in my Login.java . To do so I imported a feature in NetBeans which allows me to test my methods in the Login.java class . The features that I imported are , " import.org.junit and import org.junit.Assertions", these allowed me to test my methods using the following which Junit Assertions. I made use of the following, "assertEquals, assertTrue and also assertFalse". I used this to be able to look at the incorrect details that might be entered by a user and the correct details also.
+
 ---
 
 ## Methods used
